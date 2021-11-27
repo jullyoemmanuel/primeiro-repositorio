@@ -1,0 +1,2 @@
+- Um semicondutor extrínseco que foi dopado com átomos de doadores de elétrons é chamado **de semicondutor do tipo n**, porque a maioria dos portadores de carga no cristal são elétrons negativos.
+- Os elementos do grupo V (pentavalentes) possuem cinco elétrons de valência, o que lhes permite atuar como doador.

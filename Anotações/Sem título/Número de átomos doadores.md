@@ -1,0 +1,1 @@
+O número de doadores está relacionado aos [[semicondutores do tipo N]]

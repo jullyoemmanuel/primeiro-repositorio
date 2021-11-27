@@ -1,0 +1,1 @@
+Fluxo ordenado de portadores dentro de um semicondutor imerso em um campo elétrico.
